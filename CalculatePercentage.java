@@ -1,5 +1,5 @@
 //Write a Program to calculate percentage of a given student in board exam.(5 Subjects)(Marks are out of 100).
-package question_solution;
+
 import java.util.Scanner;
 public class CalculatePercentage {
     public static void main(String[] arg){

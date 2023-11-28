@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO REPLACE SPACE WITH UNDERSCORE
-package question_solution;
+
 import java.util.Scanner;
 public class Replace {
     public static void main(String[] args){

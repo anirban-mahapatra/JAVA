@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO PRINT A ARRAY
-package question_solution;
+
 import java.util.Scanner;
 public class Array {
     public static void main(String[] args){

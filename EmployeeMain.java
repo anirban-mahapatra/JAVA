@@ -5,7 +5,7 @@ NAME(PROPERTY)(STRING)
 GET NAME(METHOD RETURNING STRING)
 SET NAME(METHOD CHANGING NAME)
  */
-package question_solution;
+
 import java.util.*;
 
 class Employee{

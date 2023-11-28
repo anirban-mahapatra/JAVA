@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO FIND THE MAXIMUM ELEMENT IN AN ARRAY.
-package question_solution;
+
 import java.util.Scanner;
 public class MaximumInArray {
     public static void main(String[] args){

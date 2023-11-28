@@ -1,5 +1,5 @@
 //WRITE A JAVA METHOD TO PRINT MULTIPLICATION TABLE OF A NUMBER N
-package question_solution;
+
 import java.util.*;
 public class MultiplicationTableUsingMethod {
     static void multi(int n){

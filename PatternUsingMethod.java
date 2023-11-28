@@ -5,7 +5,7 @@
 ****
 *****
  */
-package question_solution;
+
 import java.util.*;
 public class PatternUsingMethod {
     static void pattern(int n){

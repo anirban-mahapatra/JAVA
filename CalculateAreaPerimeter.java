@@ -1,7 +1,6 @@
 //CREATE A CLASS SQUARE WITH A METHOD TO INITIALIZE IT'S SIDE ,CALCULATE AREA, PARAMETER ETC.
-package question_solution;
-import java.util.*;
 
+import java.util.*;
 class Square{
     int side;
     public int area(){

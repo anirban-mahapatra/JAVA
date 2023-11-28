@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO PRINT FIRST N NATURAL NUMBER IN REVERSE NUMBER.
-package question_solution;
+
 import java.util.Scanner;
 public class ReverseNaturalNo {
     public static void main(String[]args){

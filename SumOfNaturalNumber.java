@@ -1,5 +1,5 @@
 //WRITE A FUNCTION TO CALCULATE SUM OF FIRST Nth NATURAL NUMBER USING ITERATIVE APPROACH.
-package question_solution;
+
 import java.util.*;
 public class SumOfNaturalNumber {
     static void natural(int n){

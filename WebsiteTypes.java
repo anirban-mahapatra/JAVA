@@ -4,7 +4,7 @@ WRITE A PROGRAM TO FIND OUT THE TYPES OF WEBSITE FROM THE URL
     .org= ORGANISATION WEBSITE
     .in= INDIAN WEBSITE
  */
-package question_solution;
+
 import java.util.Scanner;
 public class WebsiteTypes {
     public static void main(String[] args){

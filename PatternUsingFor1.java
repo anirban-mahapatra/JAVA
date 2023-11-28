@@ -7,7 +7,6 @@ WRITE A JAVA PROGRAM TO PRINT FOLLOWING PATTERN USING FOR:
 
  */
 
-package question_solution;
 import java.util.Scanner;
 public class PatternUsingFor1 {
     public static void main(String[]args){

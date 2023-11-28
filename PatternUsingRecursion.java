@@ -5,7 +5,7 @@
  ****
  *****
  */
-package question_solution;
+
 import java.util.*;
 public class PatternUsingRecursion {
     static int pattern(int n,int i,int j){

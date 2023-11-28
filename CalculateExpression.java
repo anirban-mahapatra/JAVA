@@ -1,5 +1,5 @@
 //CALCULATE X=++Y*8
-package question_solution;
+
 import java.util.Scanner;
 public class CalculateExpression {
     public static void main(String[] arg){

@@ -1,5 +1,5 @@
 //Write a Java program to detect whether a number entered by the user is integer or not
-package question_solution;
+
 import java.util.Scanner;
 public class IntegerOrNot {
     public static void main(String[] args){

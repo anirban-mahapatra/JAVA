@@ -1,6 +1,6 @@
 //WRITE THE FOLLOWING EXPRESSION
 //1) [X-Y/2]  2) [B^2-4AC/2A] 3) [V^2-U^2] 4) [A*B-D]
-package question_solution;
+
 import java.util.Scanner;
 public class EvaluateExpression {
     public static void main(String[] arg){

@@ -1,7 +1,4 @@
 //Write a function to find average of a set of number passed as arguments.
-package question_solution;
-
-import java.util.Set;
 
 public class AverageOfNumberUsingMethod {
     static float average(int ...arr){

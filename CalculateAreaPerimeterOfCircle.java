@@ -1,7 +1,6 @@
 //CREATE A CLASS CIRCLE WITH A METHOD TO INITIALIZE IT'S SIDE ,CALCULATE AREA, PARAMETER ETC.
-package question_solution;
-import java.util.*;
 
+import java.util.*;
 class Circle{
     float r;
     float π=3.14159265359f;

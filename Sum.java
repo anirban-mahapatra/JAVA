@@ -1,5 +1,5 @@
 //Write a program to sum three numbers in Java
-package question_solution;
+
 public class Sum {
     public static void main(String[]args){
         int num1=5,num2=8,num3=3,s;

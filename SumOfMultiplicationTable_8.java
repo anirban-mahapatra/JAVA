@@ -1,5 +1,5 @@
 //WRITE A PROGRAM TO CALCULATE THE SUM OF THE NUMBER OCCURRING MULTIPLICATION TABLE OF 8
-package question_solution;
+
 public class SumOfMultiplicationTable_8 {
     public static void main(String[]args){
         int sum=0;

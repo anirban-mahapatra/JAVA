@@ -1,5 +1,5 @@
 //WRITE THE FOLLOWING EXPRESSION IN JAVA PROGRAM:- (V^2 - U^2)/2AS
-package question_solution;
+
 import java.util.Scanner;
 public class WriteExpression {
     public static void main(String[] arg){

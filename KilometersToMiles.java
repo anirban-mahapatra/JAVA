@@ -1,5 +1,5 @@
 //Write a Java program to convert Kilometers to miles
-package question_solution;
+
 import java.util.Scanner;
 public class KilometersToMiles {
     public static void main(String[] args){

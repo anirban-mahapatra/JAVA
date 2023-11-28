@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO COMPUTE FACTORIAL OF A NUMBER USING RECURSIVE METHOD.
-package question_solution;
+
 import java.util.*;
 public class FactorialUsingRecursiveMethod {
     static int fact_rec(int num){

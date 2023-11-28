@@ -1,5 +1,5 @@
 //WRITE A FUNCTION TO PRINT Nth TERM OF FIBONACCI SERIES USING RECURSION.
-package question_solution;
+
 import java.util.*;
 public class FibonacciSeriesUsingRecursion {
     static int fib(int n){

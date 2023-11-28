@@ -3,7 +3,7 @@ WRITE A JAVA PROGRAM TO FILL IN A LETTER TEMPLATE WHICH LOOK LIKE BELOW:
     LETTER = "DEAR <|NAME|>, THANKS A LOT"
     REPLACE <|NAME|> WITH A STRING
  */
-package question_solution;
+
 import java.util.Scanner;
 public class ReplaceString {
     public static void main(String[] args) {

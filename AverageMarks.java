@@ -1,5 +1,5 @@
 //CALCULATE AVERAGE MARKS OF AN ARRAY CONTAINING MARKS OF ALL STUDENT IN PHYSIC USING FOR EACH LOOP
-package question_solution;
+
 import java.util.Scanner;
 public class AverageMarks {
     public static void main(String[] args){

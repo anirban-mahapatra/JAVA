@@ -1,5 +1,5 @@
 //USE COMPARISON OPERATOR TO FIND WHETHER A GIVEN NUMBER IS GRATER THEN USER ENTERED NUMBER OR NOT
-package question_solution;
+
 import java.util.Scanner;
 public class GraterOrNot {
     public static void main(String[] arg){

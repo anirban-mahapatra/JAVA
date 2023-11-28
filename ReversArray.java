@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO REVERSE AN ARRAY.
-package question_solution;
+
 import java.util.Scanner;
 public class ReversArray {
     public static void main(String[] args){

@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO PRINT THE ELEMENT OF AN ARRAY IN REVERSE ORDER
-package question_solution;
+
 import java.util.Scanner;
 public class PrintArrayReversOrder {
     public static void main(String[] args){

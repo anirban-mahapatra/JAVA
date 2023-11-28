@@ -8,7 +8,7 @@ CALCULATE INCOME TAX PAID BY AN EMPLOYEE TO THE GOVERNMENT AS PER MENTIONED BELO
 
 NOTE THAT THERE IS NO TAX BELOW 2.5L.
  */
-package question_solution;
+
 import java.util.Scanner;
 public class TexCalculate {
     public static void main(String[] args){

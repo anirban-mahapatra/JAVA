@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO FOND THE MINIMUM ELEMENT IN ARRAY.
-package question_solution;
+
 import java.util.Scanner;
 public class MinimumInArray {
     public static void main(String[] args){

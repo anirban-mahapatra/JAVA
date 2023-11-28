@@ -1,5 +1,5 @@
 //WRITE A RECURSIVE FUNCTION TO CALCULATE SUM OF FIRST Nth NATURAL NUMBER.
-package question_solution;
+
 import java.util.*;
 public class SumOfNaturalNumberUsingRecursion {
     static int natural(int n){

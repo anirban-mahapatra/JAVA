@@ -1,5 +1,5 @@
 //Write a program to calculate CGPA using marks of three subjects (out of 100)
-package question_solution;
+
 import java.util.Scanner;
 public class CGPA_Calculate {
     public static void main(String[]args){

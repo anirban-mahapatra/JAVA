@@ -4,7 +4,6 @@ WRITE A PROGRAM TO FIND OUT WHETHER A STUDENT PASS OR FAIL.
  ASSUMED 3 SUBJECT AND TAKE MASK AS AN INPUT FROM USER.
 */
 
-package question_solution;
 import java.util.Scanner;
 public class PassFail {
     public static void main(String[] args){

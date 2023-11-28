@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO PRINT FIRST N ODD NUMBER USING A FOR LOOP.
-package question_solution;
+
 import java.util.Scanner;
 public class OddNumbers {
     public static void main(String[]args){

@@ -1,5 +1,5 @@
 //CREATE A CLASS CELL PHONE WITH METHOD TO PRINT RINGING..... , VIBRATING..... , ETC.
-package question_solution;
+
 import java.util.*;
 
 class CellPhone{

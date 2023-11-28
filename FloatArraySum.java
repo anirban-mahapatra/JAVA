@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO CREATE AN ARRAY OF FLOAT AND CALCULATE THEIR SUM.
-package question_solution;
+
 import java.util.Scanner;
 public class FloatArraySum {
     public static void main(String[] args){

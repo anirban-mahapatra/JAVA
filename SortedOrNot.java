@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO FIND WHETHER AN ARRAY IS SORTED OR NOT.
-package question_solution;
+
 import java.util.Scanner;
 public class SortedOrNot {
     public static void main(String[] args){

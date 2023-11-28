@@ -1,5 +1,5 @@
 //WRITE A FUNCTION TO CONVERT CELSIUS TEMPERATURE INTO FAHRENHEIT.
-package question_solution;
+
 import java.util.*;
 public class TemperatureUsingMethod {
     static void temp(float c){

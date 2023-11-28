@@ -1,5 +1,5 @@
 //WRITE A PROGRAM TO PRINT N NUMBER OF NATURAL NUMBERS USING DO WHILE.
-package question_solution;
+
 import java.util.Scanner;
 public class N_NaturalNumber {
     public static void main(String[]args){

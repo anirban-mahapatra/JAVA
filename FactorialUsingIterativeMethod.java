@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO FIND FACTORIAL OF A NUMBER USING ITERATIVE METHOD.
-package question_solution;
+
 import java.util.*;
 public class FactorialUsingIterativeMethod {
     static int fact_it(int num){

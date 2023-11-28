@@ -5,7 +5,7 @@
  **
  *
  */
-package question_solution;
+
 import java.util.*;
 public class ReversPatternUsingRecursion {
     static int pattern(int r,int i){

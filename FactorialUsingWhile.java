@@ -1,5 +1,5 @@
 //WRITE A PROGRAM TO FIND THE FACTORIAL OF A GIVER NUMBER USING WHILE LOOP.
-package question_solution;
+
 import java.util.Scanner;
 public class FactorialUsingWhile {
     public static void main(String[]args){

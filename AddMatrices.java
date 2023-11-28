@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO ADD TWO MATRICES.
-package question_solution;
+
 import java.util.Scanner;
 public class AddMatrices {
     public static void main(String[] args) {

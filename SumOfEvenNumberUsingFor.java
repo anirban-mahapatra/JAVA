@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO SUM FIRST N NUMBER OF EVAN NUMBER USING FOR.
-package question_solution;
+
 import java.util.Scanner;
 public class SumOfEvenNumberUsingFor {
     public static void main(String[]args){

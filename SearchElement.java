@@ -1,5 +1,5 @@
 //WRITE A PROGRAM TO FIND OUT WHETHER A GIVEN INTEGER NUMBER PRESENT IN AN ARRAY OR NOT.
-package question_solution;
+
 import java.util.Scanner;
 public class SearchElement {
     public static void main(String[] args){

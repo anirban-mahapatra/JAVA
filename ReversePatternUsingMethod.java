@@ -5,7 +5,7 @@
  **
  *
  */
-package question_solution;
+
 import java.util.*;
 public class ReversePatternUsingMethod {
     static void reverse(int n){

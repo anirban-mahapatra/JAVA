@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO FIND WHETHER A YEAR IS LEAP YEAR OR NOT.
-package question_solution;
+
 import java.util.Scanner;
 public class LeapYear {
     public static void main(String[]args){

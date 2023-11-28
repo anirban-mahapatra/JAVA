@@ -1,5 +1,5 @@
 //WRITE A JAVA PROGRAM TO DETECT DOUBLE AND TRIPLE SPACES IN A STRING
-package question_solution;
+
 import java.util.Scanner;
 public class SpacesDetect {
     public static void main(String[] args){

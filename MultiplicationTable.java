@@ -1,5 +1,5 @@
 //WRITE A PROGRAM TO PRINT MULTIPLICATION TABLE OF A GIVER NUMBER OF N
-package question_solution;
+
 import java.util.Scanner;
 public class MultiplicationTable {
     public static void main(String[]args){
